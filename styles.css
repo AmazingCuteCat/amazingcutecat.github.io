@@ -216,6 +216,6 @@ button {
   height: 15%;
   border: none !important;
   font-size:0;
-  background-color: transparent;
+  background-color: blue;
   z-index: 2;
 }
